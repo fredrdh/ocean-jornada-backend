@@ -1,0 +1,11 @@
+{
+  "name": "ocean-jornada-backend",
+  "version": "1.0.0",
+  "description": "Projeto com NodeJS criado para a Jornada Backend do Sansung Ocean, em Fevereiro de 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fred França",
+  "license": "MIT"
+}
